@@ -1,0 +1,6 @@
+{
+  "name": "Fleur de Nuit",
+  "description": "밤에 피는 꽃 - 고귀하고 예술적인 100% 예약제 프리미엄 플라워 부티크 플뢰르 드 뉘",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
